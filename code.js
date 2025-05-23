@@ -1,6 +1,6 @@
 fuction double(num)
 {
-  return 3;
+  return num*3;
 }
 
 var x=2;
